@@ -12,7 +12,7 @@ import bdi_api
 from bdi_api.examples import v0_router
 
 # from bdi_api.s1.exercise import s1
-from bdi_api.s1.solution import s1
+from bdi_api.s1.exercise import s1
 from bdi_api.s4.exercise import s4
 from bdi_api.settings import Settings
 
